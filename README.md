@@ -41,5 +41,6 @@ Execute o script pokemon.ipynb para obter as informações dos Pokémon da 1ª r
 ## Contribuições
 Sinta-se à vontade para contribuir melhorando o painel, adicionando novas funcionalidades, corrigindo bugs ou aprimorando a experiência do usuário. Abra um problema ou envie uma solicitação de pull para discutir e incorporar as alterações.
 
-##Licença
+## Licença
+
 Este projeto é licenciado sob a MIT License. Sinta-se à vontade para usar, modificar e distribuir conforme necessário.
